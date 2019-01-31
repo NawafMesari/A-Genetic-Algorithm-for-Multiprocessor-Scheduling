@@ -6,7 +6,7 @@ In terms of CPU scheduling methodology, we are trying to schedule a bunch of tas
 
 <img src="images/1screenShot.png">
 <img src="images/2 screenShot.png">
-<img src="images/2.1screenShot.png">
+<img src="images/2.1ScreenShot.png">
 <img src="images/3screenSHot.png">
 <img src="images/4screenShot.png">
 
